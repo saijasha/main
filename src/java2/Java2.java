@@ -17,9 +17,10 @@ public class Java2 {
         System.out.println("Hello World");
         for (int i = 1; i <= 10; i++)
             System.out.print(i + " ");
+        
+        int a,b,c;
+        c = a + b;
+        
     }
-    
-    int a,b,c;
-    c = a + b;
     
 }
