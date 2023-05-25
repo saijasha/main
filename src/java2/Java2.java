@@ -19,4 +19,7 @@ public class Java2 {
             System.out.print(i + " ");
     }
     
+    int a,b,c;
+    c = a + b;
+    
 }
