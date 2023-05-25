@@ -18,8 +18,9 @@ public class Java2 {
         for (int i = 1; i <= 10; i++)
             System.out.print(i + " ");
         
-        int a,b,c;
+        int a = 10, b = 5, c;
         c = a + b;
+        System.out.println(c);
         
     }
     
